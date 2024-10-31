@@ -35,10 +35,10 @@
 
 <div align="center">
   <a href="https://github.com/meowlet/elysia-himmel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowlet&repo=elysia-himmel&theme=buefy" alt="Himmel Server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manhhoang8th4&repo=elysia-himmel&theme=buefy" alt="Himmel Server">
   </a>
   <a href="https://github.com/meowlet/tsukinari">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowlet&repo=tsukinari&theme=buefy" alt="Tsukinari">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manhhoang8th4&repo=tsukinari&theme=buefy" alt="Tsukinari">
   </a>
 </div>
 
