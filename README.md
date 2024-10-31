@@ -34,7 +34,7 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/meowlet/elysia-himmel">
+  <a href="https://github.com/manhhoang8th4/CNPMNC_LT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manhhoang8th4&repo=CNPMNC_LT&theme=buefy" alt="CNPMNC_LT">
   </a>
   <a href="https://github.com/manhhoang8th4/BookStoreOnline">
