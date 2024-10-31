@@ -24,11 +24,11 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meowlet&show_icons=true&theme=buefy" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=manhhoang8th4&show_icons=true&theme=buefy" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meowlet&theme=buefy" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manhhoang8th4&theme=buefy" alt="GitHub Streak">
 </p>
 
 ## 🌟 Featured Projects
