@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, Tôn Thất Mạnh Hoàng</h1>
 <h3 align="center"> Backend developer </h3>
 
-- 🔭 I’m currently working on [BookStoreOnline](https://github.com/manhhoang8th4/BookStoreOnline)
-
 - 🌱 I’m currently learning **NodeJS,ReactJS,C#**
 
 - 🤝 I’m looking for help with **NodeJS**
